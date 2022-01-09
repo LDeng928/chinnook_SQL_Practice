@@ -1,2 +1,2 @@
 # SQL_exercise
-This repository contains SQL exercises for Data Bootcamp
+This repository contains SQL exercises and solutions for Data Bootcamp.
